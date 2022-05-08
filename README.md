@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IronYogi
 - 👀 I’m interested in working with APIs
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on nothng lol
+- 💞️ I’m looking to collaborate on nothing lol
 - 📫 How to reach me you can't
 
 <!---
